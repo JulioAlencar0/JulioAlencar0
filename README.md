@@ -28,7 +28,6 @@ Atualmente, estou em busca da minha primeira oportunidade como estagiário ou de
 ### 📊 Estatísticas:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAlencar0&layout=compact&theme=github_dark) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulioAlencar0&show_icons=true&theme=github_dark)  
 
 ---
 ### 🛠️ Tecnologias e Ferramentas que estou estudando:
