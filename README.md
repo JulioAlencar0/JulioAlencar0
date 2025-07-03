@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Júlio 👋</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas | Foco em Full Stack | Em busca da primeira oportunidade
+  Estudante de Desenvolvimento de Sistemas | Foco em Full Stack 
 </p>
 
 ---
