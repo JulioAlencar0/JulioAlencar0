@@ -13,8 +13,6 @@ Tenho estudado tanto o front-end (HTML, CSS, JavaScript) quanto o back-end (Node
 
 Participei do curso Discover da Rocketseat, onde desenvolvi meu primeiro projeto usando HTML, CSS e JavaScript. Desde então, venho evoluindo com pequenos projetos e experimentando ferramentas como Git, GitHub e Insomnia, além de escrever meus próprios códigos no VSCode.
 
-Atualmente, estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior, onde eu possa aplicar meus conhecimentos, aprender com o time e crescer na prática com responsabilidade, dedicação e vontade de fazer parte do universo tech.
-
 ---
 
 ### 📫 Como me encontrar:
