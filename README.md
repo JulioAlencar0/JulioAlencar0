@@ -7,11 +7,19 @@
 ---
 
 ### 👨‍💻 Sobre mim
-Sou estudante de Desenvolvimento de Sistemas no SENAI – Juazeiro do Norte, iniciando minha jornada no mundo da programação com o objetivo de me tornar um desenvolvedor full stack.
+👋 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIFAP – Juazeiro do Norte. Meu objetivo é evoluir como desenvolvedor, com foco principal em front-end e interesse em conhecer cada vez mais o desenvolvimento full stack.
 
-Tenho estudado tanto o front-end (HTML, CSS, JavaScript) quanto o back-end (Node.js, Express e PostgreSQL), sempre buscando entender como cada parte da aplicação funciona por trás, e não apenas repetir código. Acredito que a base da lógica e a prática constante são essenciais pra crescer como desenvolvedor.
+💻 Tenho estudado HTML, CSS e JavaScript, além de explorar tecnologias como React e React Native. Gosto especialmente de criar e estilizar interfaces, buscando desenvolver aplicações que sejam bonitas, intuitivas e funcionais. Também tenho conhecimentos em Node.js, Express e PostgreSQL, que me ajudam a compreender melhor o funcionamento do back-end e a integração entre as diferentes partes de uma aplicação.
 
-Participei do curso Discover da Rocketseat, onde desenvolvi meu primeiro projeto usando HTML, CSS e JavaScript. Desde então, venho evoluindo com pequenos projetos e experimentando ferramentas como Git, GitHub e Insomnia, além de escrever meus próprios códigos no VSCode.
+🧠 Tenho uma curiosidade natural por tecnologia e gosto de entender como as coisas funcionam por trás do código. Valorizo a lógica de programação, o raciocínio analítico e a prática constante, procurando aprender com cada erro e desenvolver minhas próprias soluções em vez de apenas copiar códigos prontos.
+
+🚀 Participei do Discover da Rocketseat, experiência em que desenvolvi meu primeiro projeto com HTML, CSS e JavaScript. Desde então, continuo aprimorando minhas habilidades por meio de estudos e projetos práticos, utilizando ferramentas como Git, GitHub, VS Code e Insomnia.
+
+📱 Atualmente, estou trabalhando em um projeto acadêmico de um aplicativo para personal trainer, pensado para facilitar o acompanhamento dos alunos e ajudar o profissional a organizar melhor sua rotina de trabalho. Também possuo certificação em HTML, CSS e JavaScript, capacitação em Inteligência Artificial pelo Google Cloud e certificado de um curso de Figma pela Udemy.
+
+📚 Estou em constante aprendizado, buscando novos desafios e oportunidades para colocar meus conhecimentos em prática, desenvolver projetos cada vez melhores e crescer como profissional na área de tecnologia.
+
+🎯 Meu foco é continuar evoluindo principalmente no front-end, aprofundar meus conhecimentos em React e React Native e, futuramente, ampliar minhas habilidades para atuar como desenvolvedor full stack.
 
 ---
 
